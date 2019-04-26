@@ -148,15 +148,14 @@ body {
 	font-size: 16px;
 	font-weight: 600;
 	letter-spacing: 0;
-	color: #6d48e5 !important;
+	color: #364655 !important;
 	vertical-align: middle;
 }
 
 .navbar .navbar-brand img {
 	vertical-align: middle;
 	margin-right: 0.3em;
-	width: 130px;
-	border-radius: 15px 5px 15px 5px;
+	width: 165px;
 }
 
 .navbar .navbar-toggler {
@@ -252,7 +251,7 @@ body {
 }
 
 .navbar.past-main .navbar-brand {
-	color: #6d48e5 !important;
+	color: #364655 !important
 }
 
 .nav-white.past-main .nav-item .nav-link {
